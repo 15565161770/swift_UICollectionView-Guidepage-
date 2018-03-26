@@ -1,0 +1,1 @@
+使用collectionView做启动页
